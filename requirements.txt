@@ -3,3 +3,4 @@ requests>=2.20.0
 pytest==2.9.2
 responses==0.8.1
 pytest-mock==1.2
+urllib3>=2.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
